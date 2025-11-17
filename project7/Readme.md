@@ -1,0 +1,2 @@
+# Project Overview
+> This project introduces the fundamentals of Recurrent Neural Networks (RNNs) and how they process sequential data. Students work with the UCI Human Activity Recognition (HAR) Dataset, a multivariate time series collected from smartphone sensors. The task is to classify human activities such as walking, standing, or laying based on sensor signals. Learners build simple RNNs from scratch in PyTorch, analyze hidden state behavior, and evaluate performance, while also understanding challenges like the vanishing gradient problem.
